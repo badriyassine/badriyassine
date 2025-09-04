@@ -68,38 +68,6 @@ Always learning, always creating 🚀
 </td>
 
   </tr>
-  <tr>
-<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-  <!-- Health Tracker Screenshot -->
-  <img src="/assests/Capture d&apos;écran 2025-08-29 035558.png" 
-       alt="Health Tracker Screenshot" 
-       width="100%" 
-       style="border-radius: 10px; margin-bottom: 10px;"/>
-       
-  <h3 style="color:#ff734d;">🩺 Health Tracker</h3>
-<p>A React + TailwindCSS app to track health, log activities, set goals, and share data securely.</p>
-
-  <a href="https://github.com/badriyassine/health_tracker" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
-
-<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-  <!-- Erra AI Design Screenshot -->
-  <img src="/assests/Capture d&apos;écran 2025-07-09 174913.png" 
-       alt="Erra AI Design Screenshot" 
-       width="100%" 
-       style="border-radius: 10px; margin-bottom: 10px;"/>
-       
-  <h3 style="color:#ff734d;">🎨 Erra AI Design</h3>
-  <p>A creative UI/UX design for <b>Erra AI</b>, showcasing user interface concepts and workflow ideas.</p>
-  
-  <a href="https://github.com/badriyassine/Erra_AI" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
-
-  </tr>
 </table>
 
 </div>
