@@ -28,7 +28,7 @@ Always learning, always creating 🚀
 
 </div>
 
-<h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
+<h2 align="center" style="color:#ff734d;">📂 Some of My Projects</h2>
 
 <div align="center">
 
