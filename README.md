@@ -24,7 +24,7 @@ Always learning, always creating 🚀
 
 🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>
 
-✨ <b>If you want to know more, check my</b> <a href="https://badriyassine.github.io/Portfolio/" target="_blank" >Portfolio...</a>
+✨ <b>If you want to know more, check my</b> <a href="https://yassine-badri.vercel.app/" target="_blank" >Portfolio...</a>
 
 </div>
 
