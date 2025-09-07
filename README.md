@@ -21,31 +21,24 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
+
 ```javascript
-// Display my technical expertise
+// Display my technical expertise in a console-style output
 const tech_stack = {
-  frontend: [
-    "React / Vite",
-    "Typescript",
-    "Tailwind CSS"
-  ],
-  backend: [
-    "Laravel (PHP)",
-    "Express (Node.js)",
-    "MySQL",
-    "MongoDB"
-  ],
-  tools: [
-    "Git / GitHub",
-    "VSCode",
-    "Postman",
-    "Docker",
-    "Figma",
-    "Linux (Ubuntu)"
-  ]
+  frontend: ["React / Vite", "Typescript", "Tailwind CSS"],
+  backend: ["Laravel (PHP)", "Express (Node.js)", "MySQL", "MongoDB"],
+  tools: ["Git / GitHub", "VSCode", "Postman", "Docker", "Figma", "Linux (Ubuntu)"]
 };
 
-console.log("$ tech_stack", tech_stack);
+console.log("$ tech_stack");
+console.log("> Frontend");
+tech_stack.frontend.forEach(skill => console.log("  - " + skill));
+
+console.log("\n> Backend");
+tech_stack.backend.forEach(skill => console.log("  - " + skill));
+
+console.log("\n> Tools & Other");
+tech_stack.tools.forEach(skill => console.log("  - " + skill));
 
 ```
 
