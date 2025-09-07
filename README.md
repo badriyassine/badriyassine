@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
-  <h2 align="center" >● Who am I ?</h2>
+  <h2 align="left" >● Who am I ?</h2>
 
 <p align="center">
 Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br/>
@@ -15,7 +15,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 </p>
 
 
-<h2 align="center" >● What technologies do I use ?</h2>
+<h2 align="left" >● What technologies do I use ?</h2>
 
 <div align="left"  >
 
@@ -33,7 +33,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 
 </div>
 
-<h2 align="center">● GitHub Analytics ?</h2>
+<h2 align="left">● GitHub Analytics ?</h2>
 
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
@@ -41,7 +41,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
 </div>
 
-<h2 align="center" >● How can you reach me ?</h2>
+<h2 align="left" >● How can you reach me ?</h2>
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
