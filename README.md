@@ -10,7 +10,7 @@
   <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
 
   <p align="center">
-    I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br>
+    I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
     I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
   </p>
 
