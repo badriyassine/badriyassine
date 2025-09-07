@@ -22,7 +22,7 @@
     <!-- Backend -->
 
 <td align="center" style="padding: 15px;">
-  <span style="color:#ff734d; font-weight:bold; font-size:16px;">Back-End</span><br>
+  <h4 style="color:#ff734d;">Back-End</h4>
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
 </td>
@@ -37,16 +37,16 @@
       <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
     </td>
 
-    <!-- Tools -->
-    <td align="center" style="padding: 15px;">
-      <h4 style="color:#ff734d;">Tools</h4>
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-    </td>
+<td align="center" style="padding: 15px;">
+  <span style="color:#ff734d; font-weight:bold; font-size:16px;">Tools</span><br>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+</td>
+
 
   </tr>
 </table>
