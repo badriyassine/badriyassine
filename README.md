@@ -1,19 +1,22 @@
 <div align="center">
   <img width="100%" src="/assests/Banner.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
 
-  <div align="center" style="margin-top:10px;">
-    <a href="https://yassine-badri.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Check%20Portfolio-FF734D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-    </a>
-  </div>
+  <div align="right" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
+</div>
+
+
 
 
   <h2 align="left" >Who am I ?</h2>
 
-  <p align="center">
-    I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
-    I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
-  </p>
+<p align="center">
+  I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br/>
+  I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
+  <br/><br/>
+  👉 Visit My <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">Portfolio</a> for more details.
+</p>
+
   <p align="center">
   What technologies do I use?
   </p>
