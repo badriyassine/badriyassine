@@ -10,8 +10,8 @@
 
 <p align="center">
 Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br/>
-I specialize in building <b>scalable web applications</b> and <b>user-friendly, responsive interfaces</b>, always focusing on <b>performance</b> and <b>usability</b>.<br/>
-You can learn more about my work on <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">my portfolio</a>.
+I specialize in building <b>scalable web applications</b> and <b>user-friendly, responsive interfaces</b>, always focusing on <b>performance</b> and <b>usability</b>.
+For more details, visit <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">my portfolio</a>.
 </p>
 
 
