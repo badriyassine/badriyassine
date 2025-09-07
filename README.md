@@ -35,14 +35,14 @@
 </div>
 
 
-  <h2 align="center">📊 GitHub Analytics</h2>
+  <h2 align="center">GitHub Analytics</h2>
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
   </div>
 
-  <h2 align="center">🌍 Connect With Me</h2>
+  <h2 align="center">How can you reach me ?</h2>
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
