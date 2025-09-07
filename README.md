@@ -2,19 +2,16 @@
   <img width="100%" src="/assests/Banner.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
-  
-  <div>
+<table width="100%"><tr>
+  <td align="left">
     <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
-  </div>
-
-  <div>
+  </td>
+  <td align="right">
     <a href="https://yassine-badri.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Check%20Portfolio-FF734D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
     </a>
-  </div>
-
-</div>
+  </td>
+</tr></table>
 
 
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
