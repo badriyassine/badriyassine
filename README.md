@@ -59,7 +59,7 @@ $ tech_stack
 
 
 ```bash
-  <h2 align="center">🌍 Connect With Me</h2>
+🌍 Connect With Me
 
 ```
 
