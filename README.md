@@ -21,7 +21,6 @@
 <div align="left"  >
 
 ```javascript
-                        What technologies do I use ? 
 
 > Frontend = [ React, Typescript, Tailwind ]
 
