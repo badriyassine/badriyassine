@@ -19,28 +19,32 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 
-<h2 align="center">💻 Tech Stack</h2>
+```bash
+$ tech_stack
+> Frontend
 
+  - React / Vite
+  - Typescript
+  - Tailwind CSS
 
-```javascript
-// Display my technical expertise in a console-style output
-const tech_stack = {
-  frontend: ["React / Vite", "Typescript", "Tailwind CSS"],
-  backend: ["Laravel (PHP)", "Express (Node.js)", "MySQL", "MongoDB"],
-  tools: ["Git / GitHub", "VSCode", "Postman", "Docker", "Figma", "Linux (Ubuntu)"]
-};
+> Backend
 
-console.log("$ tech_stack");
-console.log("> Frontend");
-tech_stack.frontend.forEach(skill => console.log("  - " + skill));
+  - Laravel (PHP)
+  - Express (Node.js)
+  - MySQL 
+  - MongoDB
 
-console.log("\n> Backend");
-tech_stack.backend.forEach(skill => console.log("  - " + skill));
+> Tools & Other
 
-console.log("\n> Tools & Other");
-tech_stack.tools.forEach(skill => console.log("  - " + skill));
+  - Git / GitHub
+  - VSCode
+  - Postman
+  - Docker
+  - Figma
+  - Linux (Ubuntu)
 
 ```
+
 
 
   <h2 align="center">📊 GitHub Analytics</h2>
