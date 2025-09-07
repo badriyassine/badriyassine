@@ -7,14 +7,18 @@
     </a>
   </div>
 
+```bash
   <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
+```
 
   <p align="center">
     I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
     I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
   </p>
 
+```bash
 <h2 align="center">💻 Tech Stack</h2>
+```
 
 ```bash
 $ tech_stack
@@ -43,15 +47,21 @@ $ tech_stack
 ```
 
 
-
+```bash
   <h2 align="center">📊 GitHub Analytics</h2>
+```
+
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
   </div>
 
+
+```bash
   <h2 align="center">🌍 Connect With Me</h2>
+
+```
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
@@ -72,7 +82,7 @@ $ tech_stack
   </div>
 </div>
 
-
+---
 
 <div align="center" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
