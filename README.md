@@ -1,19 +1,18 @@
 <div align="center">
   <img width="100%" src="/assests/Banner.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
-  
-<div align="left" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
-</div>
 
+
+<div >
 <div align="right" style="margin-top:10px;">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://yassine-badri.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Check%20Portfolio-FF734D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
-
-
-
+<div align="left" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
+</div>
+</div>
 
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
 
@@ -37,7 +36,6 @@ Always learning, always creating 🚀
 ✨ <b>If you want to know more, check my</b> <a href="https://yassine-badri.vercel.app/" target="_blank" >Portfolio...</a>
 
 </div>
-
 
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
