@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius:10px;" />
-  <br>
+  <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
+  
+<div align="right" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -126,14 +127,32 @@ Always learning, always creating 🚀
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
 </div>
 
-## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-badri-0279a7342/)  
-[![Instagram](https://img.shields.io/badge/Instagram-ff734d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassinebadri_dev/)  
-[![Gmail](https://img.shields.io/badge/Gmail-ff734d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.badrii18@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-ff734d?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yassine_o2)  
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-ff734d?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29984959/error)
+<h2 align="center">🌍 Connect With Me</h2>
 
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+
+  <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://www.instagram.com/yassinebadri_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff734d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="mailto:yassine.badrii18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ff734d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://x.com/yassine_o2" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-ff734d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/29984959/error" target="_blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-ff734d?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+
+</div>
