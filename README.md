@@ -14,9 +14,9 @@
     I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
     I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
   </p>
-
-
-<h2 align="center">💻 Tech Stack</h2>
+  <p align="left">
+  💻 Tech Stack
+  </p>
 
 <div align="left"  >
 
@@ -31,6 +31,7 @@
 > Tools & Other = [ Git, GitHub, VSCode, Postman, Docker, Figma ]
 
 ```
+
 </div>
 
 
