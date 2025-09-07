@@ -8,7 +8,7 @@
   </div>
 
 
-  <h2 align="center" style="color:#ff734d;">Who am I ?</h2>
+  <h2 align="left" >Who am I ?</h2>
 
   <p align="center">
     I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
