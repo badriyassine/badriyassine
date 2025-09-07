@@ -9,7 +9,7 @@
 
   <h1 align="left" >Who am I ?</h1>
 
-<p align="center">
+<p align="">
   I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
   I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability. for more details Visit <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">My Portfolio</a> . 
 </p>
