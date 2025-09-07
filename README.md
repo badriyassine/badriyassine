@@ -53,9 +53,6 @@ For more details, visit <a href="https://yassine-badri.vercel.app/" target="_bla
     <a href="mailto:yassine.badrii18@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
     </a>
-    <a href="https://stackoverflow.com/users/29984959/error" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
-    </a>
     <a href="https://x.com/yassine_o2" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
     </a>
