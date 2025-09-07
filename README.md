@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
+  <img width="100%" src="/assests/Banner.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
   
 <div align="right" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
