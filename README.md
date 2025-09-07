@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
+
+
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -28,49 +30,6 @@ Always learning, always creating 🚀
 
 </div>
 
-<h2 align="center" style="color:#ff734d;">📂 Some of My Projects</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-  <!-- Web App Screenshot -->
-  <img src="/assests/Capture d&apos;écran 2025-08-24 195713.png" 
-       alt="Motary Screenshot" 
-       width="100%" 
-       style="border-radius: 10px; margin-bottom: 10px;"/>
-       
-  <h3 style="color:#ff734d;">💻 Motary Web App</h3>
-  <p>
-    A responsive web application built with <b>React + Node.js + MongoDB</b><br/>
-    for managing personal notes and tasks efficiently.
-  </p>
-
-  <a href="https://github.com/badriyassine/Motary" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
-
-<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-  <!-- InventoryPro Screenshot -->
-  <img src="/assests/Capture d&apos;écran 2025-07-20 114752.png" 
-       alt="InventoryPro Screenshot" 
-       width="100%" 
-       style="border-radius: 10px; margin-bottom: 10px;"/>
-       
-  <h3 style="color:#ff734d;">📦 InventoryPro</h3>
-  <p>A full-featured inventory management system built with <b>React + PHP + MySQL</b>, including user authentication, stock & sales management, and dashboard analytics.</p>
-  
-  <a href="https://github.com/badriyassine/InventoryPro" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
-
-  </tr>
-</table>
-
-</div>
 
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
