@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
-
-
-
   <h2 align="left" >Who am I ?</h2>
 
 <p align="center">
@@ -37,6 +34,9 @@
 
 </div>
 
+<p>
+👉 Visit My <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">Portfolio</a> for more details.
+</p>
 
 <h2 align="center">GitHub Analytics</h2>
 
@@ -45,7 +45,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=false" height="179.5" style="border:2px solid #ff734d; border-radius:10px;"/>
 </div>
-
 
   <h2 align="center">How can you reach me ?</h2>
 
