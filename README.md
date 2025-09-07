@@ -7,7 +7,7 @@
 
 ---
 
-  <h2 align="left" >Who am I ?</h2>
+  <h1 align="left" >Who am I ?</h1>
 
 <p align="center">
   I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.
@@ -59,7 +59,7 @@ How can you reach me ?
 
 ---
 
-<h2 align="left">GitHub Analytics</h2>
+<h1 align="left">GitHub Analytics</h1>
 
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
