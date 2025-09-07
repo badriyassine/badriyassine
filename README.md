@@ -47,7 +47,7 @@ const tech_stack = {
 
 console.log("$ tech_stack", tech_stack);
 
-
+```
 
 
   <h2 align="center">📊 GitHub Analytics</h2>
