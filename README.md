@@ -20,11 +20,13 @@
     </td>
 
     <!-- Backend -->
-    <td align="center" style="padding: 15px;">
-      <h4 style="color:#ff734d;">Back-End</h4>
-      <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-    </td>
+
+<td align="center" style="padding: 15px;">
+  <span style="color:#ff734d; font-weight:bold; font-size:16px;">Back-End</span><br>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+</td>
+
   </tr>
 
   <tr>
@@ -45,11 +47,9 @@
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
       <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
     </td>
+
   </tr>
 </table>
-
-
-
 
   <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -78,8 +78,6 @@
     </a>
   </div>
 </div>
-
-
 
 <div align="center" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
