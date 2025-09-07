@@ -1,9 +1,17 @@
 <div align="center">
   <img width="100%" src="/assests/Banner.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
   
-<div align="center" style="margin-top:10px;">
+<div align="left" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
+
+<div align="right" style="margin-top:10px;">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Portfolio-FF734D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+
 
 
 
