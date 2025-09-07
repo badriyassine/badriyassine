@@ -13,25 +13,22 @@
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
 
 <p align="center">
-Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br>
-I enjoy building <b>modern, scalable web applications</b> and <b>responsive landing pages</b> with a focus on performance and clean design.  
-Always learning, always creating 🚀
+I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br>
+I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
 </p>
 
 <div align="left">
 
-💡 <b>What I Do</b>
+💡 <b>Core Skills</b>  
+- ⚛️ React & TailwindCSS (front-end)  
+- ⚙️ Node.js, Express.js, PHP, Laravel (back-end)  
+- 🛢️ MySQL & MongoDB (databases)  
+- 🤝 Teamwork & open-source collaboration  
 
-- ⚛️ Build <b>front-end</b> with <b>React & TailwindCSS</b>
-- ⚙️ Develop <b>back-end APIs</b> with <b>Express.js, Node.js, PHP, Laravel</b>
-- 🛢️ Work with <b>databases</b>: MySQL & MongoDB
-- 🧑‍🤝‍🧑 Love collaborating on open-source and impactful projects
-
-🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>
-
-✨ <b>If you want to know more, check my</b> <a href="https://yassine-badri.vercel.app/" target="_blank" >Portfolio...</a>
+🎯 <b>Current Focus:</b> System design & scalable architectures  
 
 </div>
+
 
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
