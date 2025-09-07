@@ -20,7 +20,7 @@
 
 
 ```javascript
-
+<div align="left" >
 > Frontend - React / Vite - Typescript - Tailwind CSS
 
 > Backend - Laravel (PHP) - Express (Node.js)
@@ -30,7 +30,7 @@
 
 > Tools & Other - Git / GitHub - VSCode - Postman - Docker - Figma - Linux (Ubuntu)
 
-
+</div>
 ```
 
 
