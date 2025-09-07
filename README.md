@@ -34,16 +34,9 @@
 
 </div>
 
-
-<h2 align="left">GitHub Analytics</h2>
-
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
-</div>
-
-  <h2 align="left">How can you reach me ?</h2>
+<p align="center">
+How can you reach me ?
+</p>
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
@@ -62,4 +55,13 @@
       <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
     </a>
   </div>
+</div>
+
+
+<h2 align="left">GitHub Analytics</h2>
+
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
 </div>
