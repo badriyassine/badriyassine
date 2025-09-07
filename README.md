@@ -14,43 +14,53 @@
     I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
   </p>
 
-  <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
+<h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
-  <p align="center"><b>Front-End, Back-End & Database</b></p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:20px;">
 
-  <div align="center" style="margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <!-- Frontend -->
+  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
+    <h4 style="color:#ff734d;">Front-End</h4>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
+    </div>
   </div>
 
-  <p align="center"><b>Tools</b></p>
-
-  <div align="center" style="margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-    <span style="width:12px; display:inline-block;"></span>
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <!-- Backend -->
+  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
+    <h4 style="color:#ff734d;">Back-End</h4>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+    </div>
   </div>
+
+  <!-- Databases -->
+  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
+    <h4 style="color:#ff734d;">Databases</h4>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+    </div>
+  </div>
+
+  <!-- Tools -->
+  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
+    <h4 style="color:#ff734d;">Tools</h4>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+    </div>
+  </div>
+
+</div>
+
 
   <h2 align="center">📊 GitHub Analytics</h2>
 
