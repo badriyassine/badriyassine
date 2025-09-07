@@ -7,63 +7,47 @@
     </a>
   </div>
 
-  <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
-
-  <p align="center">
-    I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br>
-    I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
-  </p>
-
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:20px;">
-
-  <!-- Frontend -->
-  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
-    <h4 style="color:#ff734d;">Front-End</h4>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+<table align="center" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <!-- Frontend -->
+    <td align="center" style="padding: 15px;">
+      <h4 style="color:#ff734d;">Front-End</h4>
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
       <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-    </div>
-  </div>
+    </td>
 
-  <!-- Backend -->
-  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
-    <h4 style="color:#ff734d;">Back-End</h4>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+    <!-- Backend -->
+    <td align="center" style="padding: 15px;">
+      <h4 style="color:#ff734d;">Back-End</h4>
       <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
       <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-    </div>
-  </div>
+    </td>
+  </tr>
 
-</div>
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:20px;">
-
-  <!-- Databases -->
-  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
-    <h4 style="color:#ff734d;">Databases</h4>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+  <tr>
+    <!-- Databases -->
+    <td align="center" style="padding: 15px;">
+      <h4 style="color:#ff734d;">Databases</h4>
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
       <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-    </div>
-  </div>
+    </td>
 
-  <!-- Tools -->
-  <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
-    <h4 style="color:#ff734d;">Tools</h4>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+    <!-- Tools -->
+    <td align="center" style="padding: 15px;">
+      <h4 style="color:#ff734d;">Tools</h4>
       <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
       <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
       <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
       <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-    </div>
-  </div>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 
 
