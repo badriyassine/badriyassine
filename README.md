@@ -9,9 +9,9 @@
   <h2 align="left" >● Who am I ?</h2>
 
 <p align="center">
-Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br/>
-I specialize in building <b>scalable web applications</b> and <b>user-friendly, responsive interfaces</b>, always focusing on <b>performance</b> and <b>usability</b>.
-For more details, visit <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">my portfolio</a>.
+Hi, I'm **Yassine**, a **Full-Stack Developer** from Morocco.  
+I build **scalable web applications** with **responsive, user-friendly interfaces**, focusing on **performance** and **usability**.  
+Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">portfolio</a> for more details.
 </p>
 
 
@@ -21,13 +21,10 @@ For more details, visit <a href="https://yassine-badri.vercel.app/" target="_bla
 
 ```javascript
 
-> Frontend = [ React, Typescript, Tailwind ]
-
-> Backend = [ Laravel, Express ]
-
-> Database = [ MySQL, MongoDB ]
-
-> Tools & Other = [ Git, GitHub, VSCode, Postman, Docker, Figma ]
+- **Frontend:** React, TypeScript, Tailwind  
+- **Backend:** Laravel, Express  
+- **Database:** MySQL, MongoDB  
+- **Tools & Other:** Git, GitHub, VSCode, Postman, Docker, Figma
 
 ```
 
