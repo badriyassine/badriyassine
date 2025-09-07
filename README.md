@@ -37,6 +37,10 @@
     </div>
   </div>
 
+</div>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:20px;">
+
   <!-- Databases -->
   <div style="border:2px solid #ff734d; border-radius:15px; padding:15px; width:180px; text-align:center;">
     <h4 style="color:#ff734d;">Databases</h4>
@@ -60,6 +64,7 @@
   </div>
 
 </div>
+
 
 
   <h2 align="center">📊 GitHub Analytics</h2>
