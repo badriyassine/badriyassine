@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
----
 
   <h2 align="left" >Who am I ?</h2>
 
@@ -15,9 +14,7 @@ I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a 
 For more details, visit <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">my portfolio</a>.
 </p>
 
-  <p align="center">
-  What technologies do I use?
-  </p>
+<h2 align="left" >What technologies do I use ?</h2>
 
 <div align="left"  >
 
@@ -35,9 +32,8 @@ For more details, visit <a href="https://yassine-badri.vercel.app/" target="_bla
 
 </div>
 
-<p align="center">
-How can you reach me ?
-</p>
+
+<h2 align="left" >How can you reach me ?</h2>
 
   <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
@@ -58,7 +54,6 @@ How can you reach me ?
   </div>
 </div>
 
----
 
 <h2 align="left">GitHub Analytics</h2>
 
