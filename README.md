@@ -17,10 +17,6 @@ I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br>
 I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
 </p>
 
-<div align="left">
-🎯 <b>Current Focus:</b> System design & scalable architectures  
-</div>
-
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
