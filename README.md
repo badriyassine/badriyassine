@@ -43,7 +43,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 
 <h2 align="left" >● How can you reach me ?</h2>
 
-  <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
     </a>
@@ -53,5 +53,8 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
     <a href="https://x.com/yassine_o2" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
     </a>
-  </div>
+    <a href="mailto:yassine.badrii18@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+    </a>
 </div>
+
