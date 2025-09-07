@@ -22,13 +22,13 @@
 
 ```javascript
 
-> Frontend : React / Vite - Typescript - Tailwind CSS
+> Frontend = [ React, Typescript, Tailwind ]
 
-> Backend : Laravel (PHP) - Express (Node.js)
+> Backend = [ Laravel, Express ]
 
-> Database : MySQL - MongoDB
+> Database = [ MySQL, MongoDB ]
 
-> Tools & Other : Git / GitHub - VSCode - Postman - Docker - Figma 
+> Tools & Other = [ Git, GitHub, VSCode, Postman, Docker, Figma ]
 
 ```
 </div>
