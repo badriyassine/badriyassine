@@ -7,49 +7,65 @@
     </a>
   </div>
 
+  <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
+
+  <p align="center">
+    I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco.<br>
+    I build <b>scalable web apps</b> and <b>clean, responsive interfaces</b> with a focus on performance and usability.  
+  </p>
+
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
-<table align="center" style="border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
-    <!-- Frontend -->
-    <td align="center" style="padding: 15px;">
-      <h4 style="color:#ff734d;">Front-End</h4>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:20px;">
+
+  <!-- Frontend -->
+  <div style="background-color:#0d1117; border-radius:10px; padding:15px; width:200px; text-align:center; font-family:'Courier New', Courier, monospace; color:#39d353;">
+    <span style="color:#ff734d; font-weight:bold;">Front-End</span>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
       <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-    </td>
+    </div>
+  </div>
 
-    <!-- Backend -->
+  <!-- Backend -->
+  <div style="background-color:#0d1117; border-radius:10px; padding:15px; width:200px; text-align:center; font-family:'Courier New', Courier, monospace; color:#39d353;">
+    <span style="color:#ff734d; font-weight:bold;">Back-End</span>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+    </div>
+  </div>
 
-<td align="center" style="padding: 15px;">
-  <h4 style="color:#ff734d;">Back-End</h4>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-</td>
+</div>
 
-  </tr>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-bottom:20px;">
 
-  <tr>
-    <!-- Databases -->
-    <td align="center" style="padding: 15px;">
-      <h4 style="color:#ff734d;">Databases</h4>
+  <!-- Databases -->
+  <div style="background-color:#0d1117; border-radius:10px; padding:15px; width:200px; text-align:center; font-family:'Courier New', Courier, monospace; color:#39d353;">
+    <span style="color:#ff734d; font-weight:bold;">Databases</span>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
       <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-    </td>
+    </div>
+  </div>
 
-<td align="center" style="padding: 15px;">
-  <span style="color:#ff734d; font-weight:bold; font-size:16px;">Tools</span><br>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-</td>
+  <!-- Tools -->
+  <div style="background-color:#0d1117; border-radius:10px; padding:15px; width:200px; text-align:center; font-family:'Courier New', Courier, monospace; color:#39d353;">
+    <span style="color:#ff734d; font-weight:bold;">Tools</span>
+    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+    </div>
+  </div>
+
+</div>
 
 
-  </tr>
-</table>
 
   <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -78,6 +94,8 @@
     </a>
   </div>
 </div>
+
+
 
 <div align="center" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=badriyassine&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
