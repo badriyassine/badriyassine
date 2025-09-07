@@ -19,29 +19,17 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 
-```bash
-$ tech_stack
-> Frontend
+```javascript
 
-  - React / Vite
-  - Typescript
-  - Tailwind CSS
+> Frontend - React / Vite - Typescript - Tailwind CSS
 
-> Backend
+> Backend - Laravel (PHP) - Express (Node.js)
 
-  - Laravel (PHP)
-  - Express (Node.js)
-  - MySQL 
-  - MongoDB
+> Database  - MySQL - MongoDB
 
-> Tools & Other
 
-  - Git / GitHub
-  - VSCode
-  - Postman
-  - Docker
-  - Figma
-  - Linux (Ubuntu)
+> Tools & Other - Git / GitHub - VSCode - Postman - Docker - Figma - Linux (Ubuntu)
+
 
 ```
 
