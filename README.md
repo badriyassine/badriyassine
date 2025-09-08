@@ -38,7 +38,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=badriyassine&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badriyassine&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="179.5" style="border:1px solid #ff734d; border-radius:10px;"/>
 </div>
 
 <h2 align="left" >● How can you reach me ?</h2>
