@@ -21,7 +21,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 
 ```javascript
 
-> Languages = [ Javascript, PHP, Python ]
+> Languages = [ Javascript, Php, Python ]
 
 > Frontend = [ React, Typescript, Tailwind ]
 
