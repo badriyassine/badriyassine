@@ -29,7 +29,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 
 > Languages = [ Javascript, Php, Python ]
 
-> Tools & Other = [ Git, GitHub, VSCode, Postman, Docker, Figma ]
+> Tools & Other = [ Git, GitHub, VSCode, Cursor, Postman, Docker, Figma ]
 
 ```
 
