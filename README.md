@@ -21,13 +21,13 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 
 ```javascript
 
-> Languages = [ Javascript, Php, Python ]
-
 > Frontend = [ React, Typescript, Tailwind ]
 
 > Backend = [ Laravel, Express ]
 
 > Database = [ MySQL, MongoDB ]
+
+> Languages = [ Javascript, Php, Python ]
 
 > Tools & Other = [ Git, GitHub, VSCode, Postman, Docker, Figma ]
 
