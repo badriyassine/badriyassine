@@ -21,6 +21,8 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
 
 ```javascript
 
+> Languages = [ Javascript, PHP, Python ]
+
 > Frontend = [ React, Typescript, Tailwind ]
 
 > Backend = [ Laravel, Express ]
