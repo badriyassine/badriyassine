@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="/assests/Banner.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
+  <img width="100%" src="/assests/banner2.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
 </div>
 
 <div align="right" style="margin-top:10px;">
