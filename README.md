@@ -11,8 +11,8 @@
 <p align="left">
 &nbsp;&nbsp;Hi, I'm <b>Yassine</b>, a passionate <b>Full-Stack Developer</b> from Morocco.  
 I specialize in building <b>scalable web applications</b> with <b>responsive, user-friendly interfaces</b>, always focusing on <b>performance</b> and <b>usability</b>.  
-With experience across both <b>frontend</b> and <b>backend</b> development, I enjoy turning ideas into reliable digital solutions.  
-Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">portfolio</a> to see my projects and work in detail.
+With experience across both <b>frontend</b> and <b>backend</b> development, I enjoy turning ideas into reliable digital solutions.<br>
+&nbsp;&nbsp;Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">portfolio</a> to see my projects and work in detail.
 </p>
 
 
