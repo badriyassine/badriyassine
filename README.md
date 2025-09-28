@@ -9,7 +9,7 @@
   <h2 align="left" >● Who am I ?</h2>
 
 <p align="left">
-Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco. I build <b>scalable web applications</b> with <b>responsive, <br/>
+<b> </b>Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco. I build <b>scalable web applications</b> with <b>responsive, <br/>
 user-friendly interfaces</b>, focusing on <b>performance</b> and <b>usability</b>.<br/>
 Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="color:#ff734d; font-weight:bold; text-decoration:none;">portfolio</a> for more details.
 </p>
