@@ -50,7 +50,7 @@ Check out my <a href="https://yassine-badri.vercel.app/" target="_blank" style="
     <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
     </a>
-    <a href="https://www.instagram.com/yassinebadri_dev/" target="_blank">
+    <a href="https://www.instagram.com/badriyassine.dev" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
     </a>
     <a href="https://x.com/yassine_o2" target="_blank">
